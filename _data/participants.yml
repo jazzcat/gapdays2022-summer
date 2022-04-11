@@ -1,0 +1,19 @@
+- name: Max Horn
+  affiliation: TU Kaiserslautern
+  links:
+    "GitHub: fingolfin": https://github.com/fingolfin
+
+- name: Daniel Rademacher
+  affiliation: RWTH Aachen
+  links:
+    "GitHub: danielrademacher": https://github.com/danielrademacher
+
+- name: Anna Sucker
+  affiliation: RWTH Aachen
+  links:
+    "GitHub: AnnaKDS": https://github.com/AnnaKDS
+
+- name: Lucas Wollenhaupt
+  affiliation: RWTH Aachen
+  links:
+    "GitHub: wucas": https://github.com/wucas
