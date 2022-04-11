@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Registration
-registration_state: closed
+registration_state: notyet
 form_api_token: f6eb7678607cf8d0f1b8f52b15b1922d
-email: gapdays2019-spring@gapdays.de
+email: gapdays2022-summer@gapdays.de
 ---
 
 {% case page.registration_state %}
@@ -65,12 +65,12 @@ regarding registration, or in general, feel free to
     Please select the day of arrival (we will start Monday 10 am).
   </div>
   <select name="arrival.date" id="arrival_date" required>
-    <option value="Sunday 17 March" selected="selected">Sunday 17 March or before</option>
-    <option value="Monday 18 March">Monday 18 March</option>
-    <option value="Tuesday 19 March">Tuesday 19 March</option>
-    <option value="Wednesday 20 March">Wednesday 20 March</option>
-    <option value="Thursday 21 March">Thursday 21 March</option>
-    <option value="Friday 22 March">Friday 22 March</option>
+    <option value="Sunday 14 August" selected="selected">Sunday 14 August or before</option>
+    <option value="Monday 15 August">Monday 15 August</option>
+    <option value="Tuesday 19 August">Tuesday 16 August</option>
+    <option value="Wednesday 20 August">Wednesday 17 August</option>
+    <option value="Thursday 21 August">Thursday 18 August</option>
+    <option value="Friday 22 August">Friday 19 August</option>
   </select>
 </div>
 
@@ -82,12 +82,12 @@ regarding registration, or in general, feel free to
     Please select the day of departure (we will finish Friday afternoon).
   </div>
   <select name="departure.date" id="departure_date" required>
-    <option value="Monday 18 March">Monday 18 March</option>
-    <option value="Tuesday 19 March">Tuesday 19 March</option>
-    <option value="Wednesday 20 March">Wednesday 20 March</option>
-    <option value="Thursday 21 March">Thursday 21 March</option>
-    <option value="Friday 22 March" selected="selected">Friday 22 March</option>
-    <option value="Saturday 23 March">Saturday 23 March or later</option>
+    <option value="Monday 15 August">Monday 15 August</option>
+    <option value="Tuesday 16 August">Tuesday 16 August</option>
+    <option value="Wednesday 17 August">Wednesday 17 August</option>
+    <option value="Thursday 18 August">Thursday 18 August</option>
+    <option value="Friday 19 August" selected="selected">Friday 19 August</option>
+    <option value="Saturday 20 August">Saturday 20 August or later</option>
   </select>
 </div>
 
@@ -96,11 +96,12 @@ regarding registration, or in general, feel free to
     <label for="accommodation">Accommodation</label>
   </div>
   <div class="form-field-description">
+      <!--
     We recommend that you stay in the <a href="https://www.tryphalle.com/">TRYP
       by Wyndham Halle</a>.  See the <a href="{{ site.url }}{{ site.baseurl
       }}/location">location page</a> for more information.
-    <!--
-    For participants of GAP Days Spring 2019, we have
+      -->
+    For participants of GAP Days Summer 2022, we have
     secured 15 rooms at a rate of 56 Euros (single room) or 75 Euros (double
     room) per night. These rooms are available from Sunday 17<sup>th</sup> March
     until Saturday 23<sup>rd</sup> March 2019.  The offer includes free
@@ -112,7 +113,6 @@ regarding registration, or in general, feel free to
     }}/hotel_form/english.pdf">reservation form (English)</a>, or
     <a href="{{ site.url }}{{ site.baseurl
     }}/hotel_form/deutsch.pdf">reservation form (German)</a>.
-    -->
   </div>
 <!-- 
   <input type="text" size="60" maxlength="180" name="accommodation" />
