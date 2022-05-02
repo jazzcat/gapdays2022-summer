@@ -3,8 +3,8 @@ layout: page
 title: Program
 ---
 
-* __Start:__ Monday 15<sup>th</sup> August 2022 at 10:00
-* __Finish:__ Friday 19<sup>nd</sup> August 2022 at 15:00
+* __Start:__ Monday 17<sup>th</sup> October 2022 at 10:00
+* __Finish:__ Friday 21<sup>st</sup> October 2022 at 15:00
 
 ### Organisational notepad for the GAP Days
 
