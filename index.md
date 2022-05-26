@@ -25,16 +25,20 @@ Please visit [gapdays.de](https://www.gapdays.de) for a list of all GAP Days.
 
 ## {{ site.title }}
 
-The theme of this GAP Days will be “Matrix Object and Packages (?)”.
-During this GAP Days, we aim to survey, understand, and develop TODO.
+The theme of these GAP Days will be “Packages and Matrix Objects”.
+During these GAP Days, we want to hear about your new packages and progress on older 
+ones and work together on Matrix Objects in GAP.
 
-We will also include a small number of talks during the GAP Days about GAP. 
+We will also include a small number of talks during the GAP Days about GAP itself. 
 If there is a particular topic in this area that
-you would like to hear a talk about, then please include details in the comment
+you would like to talk about, then please include details in the comment
 box at registration, or email us later.
 
-We would like this GAP Days to be an opportunity for all interested people with
-little knowledge of the insides of GAP to join in: this includes undergraduate
+We would like these GAP Days to be an opportunity for the community to come together 
+after two years of social-distancing. 
+
+We warmly invite all people interested with
+little knowledge of the insides of GAP to join in as well: this includes undergraduate
 students, PhD students, post-docs, and more experienced mathematicians. You will
 be able to meet us and each other, and learn about GAP development and
 algorithmic group theory in a relaxed and friendly atmosphere.
@@ -49,13 +53,13 @@ GAP Days Summer 2022 is organised by
 More detailed information can be found on [the program page]({{ site.baseurl }}/program).
 
 
-## Registering and visiting
+## Registering
 
-GAP Days Summer 2022 will take place at the {{ site.location }}. Information
+GAP Days Summer 2022 will take place at {{ site.location }}. Information
 about the exact location can be found on [the location
-page]({{ site.baseurl }}/location).
+page]({{ site.baseurl }}/location). For registration use the form on [the registration page]({{ site.baseurl }}/registration).
 
 ## <a name="contact"></a> Contact
 
 If you have questions or suggestions, then please contact the organisers by
-email at [gapdays2022-summer@gapdays.de](mailto:gapdays2022-summer@gapdays.de).
+email via [gapdays2022-summer@gapdays.de](mailto:gapdays2022-summer@gapdays.de).

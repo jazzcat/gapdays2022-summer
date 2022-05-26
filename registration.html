@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Registration
-registration_state: notyet
+registration_state: open
 form_api_token: f6eb7678607cf8d0f1b8f52b15b1922d
 email: gapdays2022-summer@gapdays.de
 ---
@@ -65,12 +65,12 @@ regarding registration, or in general, feel free to
     Please select the day of arrival (we will start Monday 10 am).
   </div>
   <select name="arrival.date" id="arrival_date" required>
-    <option value="Sunday 14 August" selected="selected">Sunday 14 August or before</option>
-    <option value="Monday 15 August">Monday 15 August</option>
-    <option value="Tuesday 19 August">Tuesday 16 August</option>
-    <option value="Wednesday 20 August">Wednesday 17 August</option>
-    <option value="Thursday 21 August">Thursday 18 August</option>
-    <option value="Friday 22 August">Friday 19 August</option>
+    <option value="Saturday October 15">Saturday, October 15 or before</option>
+    <option value="Sunday October 16" selected="selected">Sunday, October 16</option>
+    <option value="Monday October 17">Monday, October 17</option>
+    <option value="Tuesday October 18">Tuesday, October 18</option>
+    <option value="Wednesday October 19">Wednesday, October 19</option>
+    <option value="Thursday October 20">Thursday, October 20</option>
   </select>
 </div>
 
@@ -82,14 +82,15 @@ regarding registration, or in general, feel free to
     Please select the day of departure (we will finish Friday afternoon).
   </div>
   <select name="departure.date" id="departure_date" required>
-    <option value="Monday 15 August">Monday 15 August</option>
-    <option value="Tuesday 16 August">Tuesday 16 August</option>
-    <option value="Wednesday 17 August">Wednesday 17 August</option>
-    <option value="Thursday 18 August">Thursday 18 August</option>
-    <option value="Friday 19 August" selected="selected">Friday 19 August</option>
-    <option value="Saturday 20 August">Saturday 20 August or later</option>
+    <option value="Monday October 17">Monday, October 17</option>
+    <option value="Tuesday October 18">Tuesday, October 18</option>
+    <option value="Wednesday October 19">Wednesday, October 19</option>
+    <option value="Thursday October 20">Thursday, October 20</option>
+    <option value="Friday October 21" selected="selected">Friday, October 21</option>
+    <option value="Saturday October 22">Saturday, October 22 or later</option>
   </select>
 </div>
+
 
 <div class="form-field">
   <div class="form-field-title">
@@ -121,16 +122,49 @@ regarding registration, or in general, feel free to
 
 <div class="form-field">
   <div class="form-field-title">
-    <label for="presentation">Comments</label>
+    <label for="mensa_card">Mensa Card<span class="form-field-req">*</span></label> 
+  </div>
+  <div class="form-field-description">
+    Please indicate if you wish to have lunch at the university canteen. See <a href="{{ site.url }}{{ site.baseurl
+    }}/location">here</a>.
+  </div>
+  <select name="child_care" id="child_care" required>
+    <option value="Yes" selected="selected">Yes</option>
+    <option value="No">No</option>
+  </select>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="child_care">Child care <span class="form-field-req">*</span></label> 
+  </div>
+  <div class="form-field-description">
+    Please indicate if child care is needed. We will contact you individually for further details.
+  </div>
+  <select name="child_care" id="child_care" required>
+    <option value="Yes">Yes</option>
+    <option value="No" selected="selected">No</option>
+  </select>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="presentation">Presentation</label>
+  </div>
+  <div class="form-field-description">
+    If you like to give a presentation during the package session please state the title of your presentation. 
+    You are welcome to offer other talks, too.
+  </div>
+  <textarea name="presentation" rows="3" cols="60"></textarea>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="comments">Comments</label>
   </div>
   <div class="form-field-description">
     Here you can give any comments, questions, or wishes that you have
-    regarding the GAP Days. For example, if you might like to give a
-    talk, then please provide the title of your talk in the comments.
-    Or, if you would maybe like to hear a talk about a specific GAP-related topic,
-    then please add your suggestion as a comment.
-    We will do our best to take all requests into account, but cannot
-    promise anything further at the moment.
+    regarding the GAP Days.
   </div>
   <textarea name="comments" rows="10" cols="60"></textarea>
 </div>

@@ -6,4 +6,4 @@ layout: default
   Thank you for registering!
 </p>
 
-[Back to start]({{ site.baseurl }})
+[Back to start]({{ site.baseurl }}/index)

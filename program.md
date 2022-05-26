@@ -21,49 +21,40 @@ and follow a pattern of "Standups" each day at around 9am and 4:30pm, to
 communicate what we plan to work on, and what we have worked on, respectively.
 We will close the meeting at around 3pm on Friday.
 
-- **Monday** (Room TODO)
+This schedule is preliminary. Additional events will be added soon.
+
+- **Monday** 
   - 10:00: **Opening of the GAP Days**
-  - 12:00 (ish): Lunch *(in the [Mensa](https://www.studierendenwerk-aachen.de/de/Gastronomie/mensa-academica-wochenplan.html))*
-  - 16:30: Stand-up meeting
-  - 18:30: Workshop dinner at [House of India](https://house-of-india.de)
-
-- **Tuesday** (Room TODO)
-  - 09:15: Stand-up meeting
-  - 10:00–10:30: Talk by Lucas Wollenhaupt:
-  <br />&nbsp;&nbsp;
-  *“<a href="{{ site.baseurl }}/abstracts/soicher">Exploiting graph symmetry in the computation of chromatic number</a>”*
-  - 11:55: [Group photo]({{ site.baseurl }}/images/group-photo-large.jpg)
-  - 12:00 (ish): Lunch *(in the [Mensa](https://www.studierendenwerk-aachen.de/de/Gastronomie/mensa-academica-wochenplan.html))*
+  - 12:00 (ish): Lunch 
   - 16:30: Stand-up meeting
 
-- **Wednesday** (Room TODO)
+- **Tuesday** 
   - 09:15: Stand-up meeting
-  - 10:00–10:30: Talk by Lucas Wollenhaupt:
-  <br />&nbsp;&nbsp;
-  *“<a href="{{ site.baseurl }}/abstracts/delecroix">Galois group of polynomials</a>”*
-  - 12:00 (ish): Lunch *(in the [Mensa](https://www.studierendenwerk-aachen.de/de/Gastronomie/mensa-academica-wochenplan.html))*
+  - 09:45: Package Session (Volunteers welcome! See [here]({{ site.baseurl }}/registration).)
+  - 12:00 (ish): Lunch 
   - 16:30: Stand-up meeting
 
-- **Thursday** (Room TODO)
+- **Wednesday** 
   - 09:15: Stand-up meeting
-  - 10:00: Discussion about Matrix Objects`
-  - 11:00: Discussion about GAP infrastructure for
-           website &amp; hosting
-  - 12:00 (ish): Lunch *(in the [Mensa](https://www.studierendenwerk-aachen.de/de/Gastronomie/mensa-academica-wochenplan.html))*
+  - 12:00 (ish): Lunch 
   - 16:30: Stand-up meeting
 
-- **Friday** (Room TODO)
+- **Thursday** 
   - 09:15: Stand-up meeting
-  - 10:00–10:30: Opportunity for spontaneous short talk(s)
-  - 12:00 (ish): Lunch *(in the [Mensa](https://www.studierendenwerk-aachen.de/de/Gastronomie/mensa-academica-wochenplan.html))*
+  - 12:00 (ish): Lunch 
+  - 16:30: Stand-up meeting
+
+- **Friday** 
+  - 09:15: Stand-up meeting
+  - 12:00 (ish): Lunch 
   - 15:00: **Close of the GAP Days**
 
 
 ## Topics and projects
 
-The overarching theme of this GAP Days will be Matrix Objects.  If you have any
+The overarching theme of these GAP Days will be Matrix Objects. If you have any
 queries or suggestions, then please do not hesitate to contact the organisers.
 
-1. __Overview of existing Matrix Object code in GAP__
+1. __Overview of existing Matrix Objects code in GAP__
 
 2. __Goals for new Matrix Object functionalities__

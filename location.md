@@ -1,15 +1,18 @@
 ---
 layout: page
 title: Location
+location_state: announced
 ---
 
-The fourteenth GAP Days will take place in [Aachen](https://www.aachen.de/). Please see below, and the
-[program page]({{ site.url }}{{ site.baseurl }}/program), for the specific
-details about which rooms are available for our use on which days.
+{% case page.location_state %}
+{% when 'tbc' %}
 
-This is within 20-25 minutes walking distance from the main train station. Alternatively, you can take one of the buses from the lines 13B, 44, 74 (exit at “Driescher Gässchen”) or the lines 3A, 13A (exit at “Ponttor” ).
+The 14<sup>th</sup> GAP Days will take place in [Aachen](https://www.aachen.de/). 
 
-You can find the organizers in room 252.
+Further details will be announced soon.
+
+{% when 'announced' %}
+The 14<sup>th</sup> GAP Days will take place in [Aachen](https://www.aachen.de/).
 
 <h2>Getting around Aachen</h2>
 
@@ -18,27 +21,52 @@ TODO
 <h2>Address</h2>
 
 <a href="https://www.openstreetmap.org/#map=19/50.78018/6.08095">
-Institut für Informatik<br />
 Pontdriesch 14/16<br/>
 52062 Aachen</a>
 
+This is within 20-25 minutes walking distance from the main train station. Alternatively, you can take one of the buses from the lines 13B, 44, 74 (exit at “Driescher Gässchen”) or the lines 3A, 13A (exit at “Ponttor” ).
+
+You can find the organizers in room 252 on floor E2.
+
 <h2>Rooms</h2>
 
-The main base for the GAP Days will be **rooms 5.09 and 5.10**, on the fifth
-floor of Von-Seckendorff-Platz 1.
-<!--
-However, this room is unavailable on Wednesday
-20<sup>th</sup> March. Instead we will be based in room 1.30 on the Wednesday,
-which on the first floor.-->
+TBA
 
-Throughout the GAP Days, we will also have access to **seminar rooms 1.02 and
-1.03**, on the first floor.  These rooms will be useful for those who wish to
-have meetings or discussions that are not relevant to the whole group.
 
 <h2>Accommodation</h2>
 
-TODO
+TBA
 
 <h2>Restaurants</h2>
 
-toDO
+Aachen's Pontviertel offers various places to have lunch and dinner. Here are a few recommendations.
+
+- [Mensa Academica](https://www.openstreetmap.org/search?whereami=1&query=50.78164%2C6.07640#map=19/50.78164/6.07640) (the university canteen, lunch only): 
+    - Distance from location: 5 min walking distance
+    - Offers a wide range of different meals, usually also vegetarian and vegan options
+    - The daily changing menu can be seen [here](https://www.studierendenwerk-aachen.de/en/eating-drinking/mensa-academica-wochenplan-en-kopie.html).
+    - Price: 3,50 € - 7,00 €
+    - If you wish to have lunch at the university canteen you will need a card to pay with that can be charged at the entrance. Please indicate in the registration form if you would like to have such a card, we will provide you with one.
+- [AKL](https://www.openstreetmap.org/search?whereami=1&query=50.77687%2C6.08320#map=19/50.77687/6.08320)
+    - Distance from location: 5 min walking distance
+    - [Offers](https://www.akl-orient.de/speisekarte) Lebanese food, including vegetarian and vegan options 
+    - Price: 3,50 € - 8,00 €
+- [Mama & Papa Tai](https://www.openstreetmap.org/search?whereami=1&query=50.77950%2C6.08032#map=19/50.77950/6.08032)
+    - Distance from location: 2 min walking distance
+    - [Offers](https://mamaundpapatai.de/speisekarte-2/) vietnamese food and sushi
+    - Price: 10,00 € - 20,00 €
+- [Labyrinth](https://www.openstreetmap.org/search?whereami=1&query=50.78072%2C6.07962#map=19/50.78072/6.07962)
+    - Distance from location: 2 min walking distance
+    - Offers a wide range of different foods, including vegetarian options
+    - Price: 10,00 € - 20,00 €
+- [Sultan's of Kebab](https://www.openstreetmap.org/node/5240616476#map=19/50.78010/6.08043)
+    - Distance from location: 1 min walking distance
+    - Offers Kebab and Falafel
+    - Price: 3,50 € - 8,00 €
+- [Ferdinands](https://www.openstreetmap.org/search?whereami=1&query=50.77984%2C6.08049#map=19/50.77984/6.08049) (dinner only)
+    - Distance from location: 2 min walking distance
+    - Offers burgers
+    - Price: 10,00 € - 20,00 €
+- and many more...
+
+{% endcase %}
