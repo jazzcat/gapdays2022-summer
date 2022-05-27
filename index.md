@@ -59,6 +59,10 @@ GAP Days Summer 2022 will take place at {{ site.location }}. Information
 about the exact location can be found on [the location
 page]({{ site.baseurl }}/location). For registration use the form on [the registration page]({{ site.baseurl }}/registration).
 
+## Sponsors
+
+This workshop is supported by [SFB-TRR 195](https://www.computeralgebra.de/sfb/) - Symbolic Tools in Mathematics and their Application.
+
 ## <a name="contact"></a> Contact
 
 If you have questions or suggestions, then please contact the organisers by

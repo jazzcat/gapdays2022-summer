@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Registration
-registration_state: open
+registration_state: notyet
 form_api_token: f6eb7678607cf8d0f1b8f52b15b1922d
 email: gapdays2022-summer@gapdays.de
 ---
@@ -94,30 +94,25 @@ regarding registration, or in general, feel free to
 
 <div class="form-field">
   <div class="form-field-title">
-    <label for="accommodation">Accommodation</label>
+    <label for="accommodation">Accommodation<span class="form-field-req">*</span></label>
   </div>
   <div class="form-field-description">
-      <!--
-    We recommend that you stay in the <a href="https://www.tryphalle.com/">TRYP
-      by Wyndham Halle</a>.  See the <a href="{{ site.url }}{{ site.baseurl
-      }}/location">location page</a> for more information.
-      -->
-    For participants of GAP Days Summer 2022, we have
-    secured 15 rooms at a rate of 56 Euros (single room) or 75 Euros (double
-    room) per night. These rooms are available from Sunday 17<sup>th</sup> March
-    until Saturday 23<sup>rd</sup> March 2019.  The offer includes free
-    breakfast and free travel on the public transport within Halle for the
-    duration of your visit.  The offer is <b>valid until 3<sup>rd</sup> February
-      2019</b>, or until all 15 rooms are booked.  You can book a room by completing
-    the following form, and sending it to the hotel:
-    <a href="{{ site.url }}{{ site.baseurl
-    }}/hotel_form/english.pdf">reservation form (English)</a>, or
-    <a href="{{ site.url }}{{ site.baseurl
-    }}/hotel_form/deutsch.pdf">reservation form (German)</a>.
+    Please indicate whether you would like us to book a room at the RWTH Guesthouse for you.
+    <select name="guesthouse" id="guesthouse" required>
+      <option value="No" selected="selected">No</option>
+      <option value="Yes">Yes</option>
+    </select>
   </div>
-<!-- 
-  <input type="text" size="60" maxlength="180" name="accommodation" />
- -->
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="reimbursement">Reimbursements<span class="form-field-req">*</span></label>
+  </div>
+  <div class="form-field-description">
+    Expenses for travel and accommodations might be partly covered. Please give us an estimation how much support you will need.
+  </div>
+  <textarea name="reimbursement" rows="3" cols="60" required></textarea>
 </div>
 
 <div class="form-field">

@@ -1,22 +1,17 @@
 ---
 layout: page
 title: Location
-location_state: announced
+guesthouse_state: available
 ---
 
-{% case page.location_state %}
-{% when 'tbc' %}
-
-The 14<sup>th</sup> GAP Days will take place in [Aachen](https://www.aachen.de/). 
-
-Further details will be announced soon.
-
-{% when 'announced' %}
 The 14<sup>th</sup> GAP Days will take place in [Aachen](https://www.aachen.de/).
 
 <h2>Getting around Aachen</h2>
 
-TODO
+You can reach the RWTH Guesthouse 
+- from Aachen Main Train Station with bus Number 11 to Alter Posthof and then further with Lines 12, 22 or 75 to Melatener Straße.
+- from Aachen Main Train Station with Line 3A to Westbahnhof.
+- from Aachen West, the guesthouses can be reached in five to ten minutes by foot.
 
 <h2>Address</h2>
 
@@ -35,7 +30,13 @@ TBA
 
 <h2>Accommodation</h2>
 
-TBA
+{% case page.guesthouse_state %}
+{% when 'available' %}
+We have a limited number of rooms available in the RWTH [Guesthouse](https://www.rwth-aachen.de/cms/root/Die-RWTH/Kontakt-Anreise/Raumverwaltung/~bdst/Gaestehaeuser/?lidx=1). If you wish to stay there please indicate so during registration.
+{% when 'full' %}
+We had a limited number of rooms available in the RWTH Guesthouse. Unfortunately, they are all booked by now. 
+{% endcase %}
+We otherwise suggest an online booking site like [aachen.de](www.aachen.de)(-> Tourismus -> Buchen -> Hotels), [booking.com](https://www.booking.com/) or similar sites.
 
 <h2>Restaurants</h2>
 
@@ -69,4 +70,3 @@ Aachen's Pontviertel offers various places to have lunch and dinner. Here are a 
     - Price: 10,00 € - 20,00 €
 - and many more...
 
-{% endcase %}
