@@ -29,7 +29,7 @@ Departure date: ... (Please enter the day of departure. We will finish Friday, O
 Accommodation: Yes/No (Please indicate whether you would like us to book a room at the RWTH Guesthouse for you.)
 Reimbursements: ... (Expenses for travel and accommodations might be partly covered. Please give us an estimation how much support you will need.)
 Mensa Card: Yes/No (Please indicate if you wish to have lunch at the university canteen. See <a href="{{ site.url }}{{ site.baseurl
-    }}/location">here.)
+    }}/location" here </a>.)
 Child Care: Yes/No (Please indicate if child care is needed. We will contact you individually for further details.)
 Presentation: ... (If you like to give a presentation during the package session please state the title of your presentation.
 You are welcome to offer other talks, too.)
