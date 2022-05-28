@@ -17,7 +17,7 @@ email: gapdays2022-summer@gapdays.de
 
 In order to participate in this meeting, please register with us, even if you only want to join for parts of the meeting.
 
-To register please send an email to [{{site.email}}](mailto:{{site.email}}) with the following contents.
+To register please send an email to <a href="mailto:{{site.email}}">[{{site.email}}]</a> with the following contents.
 ```
 Registration for {{site.title}}
 
