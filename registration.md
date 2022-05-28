@@ -45,7 +45,6 @@ You are welcome to offer other talks, too.)
 Comments: ... (Here you can give any comments, questions, or wishes that you have regarding the GAP Days.)
 ```
 
-<p>
 If you have any questions
 regarding registration, or in general, feel free to
 [contact us via email](mailto:gapdays2022-summer@gapdays.de).
