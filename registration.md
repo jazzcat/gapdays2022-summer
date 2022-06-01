@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Registration
-registration_state: notyet
+registration_state: open
 email: gapdays2022-summer@gapdays.de
 ---
 

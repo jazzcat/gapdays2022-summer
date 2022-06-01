@@ -47,7 +47,7 @@ This schedule is preliminary. Additional events will be added soon.
 - **Friday** 
   - 09:15: Stand-up meeting
   - 12:00 (ish): Lunch 
-  - 15:00: **Close of the GAP Days**
+  - 15:00: **Closing of the GAP Days**
 
 
 ## Topics and projects
