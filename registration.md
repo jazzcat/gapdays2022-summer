@@ -17,7 +17,12 @@ email: gapdays2022-summer@gapdays.de
 
 In order to participate in this meeting, please register with us, even if you only want to join for parts of the meeting.
 
-To register please send an email to [gapdays2022-summer@gapdays.de](mailto:gapdays2022-summer@gapdays.de) with the following contents.
+To register please send an email to
+[gapdays2022-summer@gapdays.de](mailto:gapdays2022-summer@gapdays.de) with the
+following contents.
+
+The registration will close on July 31, 2022.
+
 ```
 Registration for {{site.title}}
 
