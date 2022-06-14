@@ -6,6 +6,9 @@
   links:
     "GitHub: fingolfin": https://github.com/fingolfin
 
+- name: Kuroš Mavaddat Nežâd
+  affiliation: University of Kashan
+
 - name: Daniel Rademacher
   affiliation: RWTH Aachen
   links:
@@ -15,6 +18,11 @@
   affiliation: RWTH Aachen
   links:
     "Github: FriedrichRober": https://github.com/FriedrichRober
+  
+- name: Leonard Soicher
+  affiliation: Queen Mary University of London
+  links:
+    "GitHub: lhsoicher": https://github.com/lhsoicher
 
 - name: Anna Sucker
   affiliation: RWTH Aachen
@@ -25,11 +33,3 @@
   affiliation: RWTH Aachen
   links:
     "GitHub: wucas": https://github.com/wucas
-    
-- name: Kuroš Mavaddat Nežâd
-  affiliation: University of Kashan
-
-- name: Leonard Soicher
-  affiliation: Queen Mary University of London
-  links:
-    "GitHub: lhsoicher": https://github.com/lhsoicher
