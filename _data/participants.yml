@@ -28,3 +28,8 @@
     
 - name: Kuroš Mavaddat Nežâd
   affiliation: University of Kashan
+
+- name: Leonard Soicher
+  affiliation: Queen Mary University of London
+  links:
+    "GitHub: lhsoicher": https://github.com/lhsoicher
