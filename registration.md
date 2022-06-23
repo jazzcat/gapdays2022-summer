@@ -39,9 +39,6 @@ Monday, October 17, 10 am.)
 Departure date: ... (Please enter the day of departure. We will 
 finish Friday, October 21, afternoon.)
 
-Accommodation: Yes/No (Please indicate whether you would like us 
-to book a room at the RWTH Guesthouse for you.)
-
 Reimbursements: ... (Expenses for travel and accommodations might 
 be partly covered. Please give us an estimation how much support 
 you will need.)
