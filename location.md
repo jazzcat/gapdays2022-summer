@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Location
-guesthouse_state: available
+guesthouse_state: unavailable
 ---
 
 The 14<sup>th</sup> GAP Days will take place in [Aachen](https://www.aachen.de/).
