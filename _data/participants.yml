@@ -1,5 +1,11 @@
+- name: Mun See Chang
+  affiliation: University of St Andrews
+
 - name: Deepshikha Chatterjee
   affiliation: Ambedkar University Delhi
+
+- name: Leila Ghanbari Maman
+  affiliation: University of Tehran
 
 - name: Max Horn
   affiliation: TU Kaiserslautern
@@ -10,6 +16,12 @@
   affiliation: University of St Andrews
   links: 
     "GitHub: ChrisJefferson": https://github.com/ChrisJefferson
+
+- name: Fatemeh Koorepazan-Moftakhar
+  affiliation: Comenius University in Bratislava
+
+- name: Dominika Mihálová
+  affiliation: Comenius University in Bratislava
 
 - name: Kuroš Mavaddat Nežâd
   affiliation: University of Kashan
@@ -33,6 +45,9 @@
   affiliation: RWTH Aachen
   links:
     "GitHub: AnnaKDS": https://github.com/AnnaKDS
+
+- name: Vinay Vilas Wagh
+  affiliation: Indian Institute of Technology Guwahati
 
 - name: Lucas Wollenhaupt
   affiliation: RWTH Aachen
