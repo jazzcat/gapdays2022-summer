@@ -6,14 +6,6 @@ title: Program
 * __Start:__ Monday 17<sup>th</sup> October 2022 at 10:00
 * __Finish:__ Friday 21<sup>st</sup> October 2022 at 15:00
 
-### Organisational notepad for the GAP Days
-
-[Link to the HackMD for GAP Days Summer
-2022](https://hackmd.io/Zx09dY1UQMyOmUfrpPk9dg).  In this notepad, we invite you
-to share organisational information, and details about what you want to work
-on/have worked on during the GAP Days.
-
-
 ## Detailed schedule
 
 We will open with a meeting at 10am on Monday to coordinate plans for the week,
