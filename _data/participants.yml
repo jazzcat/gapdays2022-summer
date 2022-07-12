@@ -7,6 +7,11 @@
 - name: Leila Ghanbari Maman
   affiliation: University of Tehran
 
+- name: Ruth Hoffmann
+  affiliation: University of St Andrews
+  links:
+    "GitHub ruthhoffmann": https://github.com/ruthhoffmann
+
 - name: Max Horn
   affiliation: TU Kaiserslautern
   links:
