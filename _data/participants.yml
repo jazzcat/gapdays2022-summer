@@ -5,6 +5,8 @@
 
 - name: Mun See Chang
   affiliation: University of St Andrews
+  links:
+    "GitHub: Munsee": https://github.com/Munsee
 
 - name: Deepshikha Chatterjee
   affiliation: Ambedkar University Delhi
@@ -21,6 +23,9 @@
   affiliation: TU Kaiserslautern
   links:
     "GitHub: fingolfin": https://github.com/fingolfin
+
+- name: Ali Iranmanesh
+  affiliation: Tarbiat Modares University
 
 - name: Christopher Jefferson
   affiliation: University of St Andrews
