@@ -78,6 +78,11 @@
 
 - name: Vinay Vilas Wagh
   affiliation: Indian Institute of Technology Guwahati
+  
+- name: Meike Weiß
+  affiliation: RWTH Aachen
+  links:
+    "GitHub: MeikeWeiss": https://github.com/MeikeWeiss
 
 - name: Lucas Wollenhaupt
   affiliation: RWTH Aachen
