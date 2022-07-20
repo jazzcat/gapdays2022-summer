@@ -1,3 +1,8 @@
+- name: Reymond Akpanya
+  affiliation: RWTH Aachen
+  links:
+    "GitHub: ReymondAkpanya": https://github.com/ReymondAkpanya
+
 - name: Jens Brandt
   affiliation: RWTH Aachen
   links:
@@ -13,6 +18,11 @@
 
 - name: Leila Ghanbari Maman
   affiliation: University of Tehran
+
+- name: Tom Görtzen 
+  affiliation: RWTH Aachen
+  links:
+    "GitHub: TomGoertzen": https://github.com/TomGoertzen
 
 - name: Ruth Hoffmann
   affiliation: University of St Andrews
@@ -40,6 +50,11 @@
 
 - name: Kuroš Mavaddat Nežâd
   affiliation: University of Kashan
+
+- name: Alice Niemeyer
+  affiliation: RWTH Aachen
+  links:
+    "GitHub: aniemeyer": https://github.com/aniemeyer
 
 - name: Daniel Rademacher
   affiliation: RWTH Aachen
