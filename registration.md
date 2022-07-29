@@ -21,7 +21,9 @@ To register please send an email to
 [gapdays2022-summer@gapdays.de](mailto:gapdays2022-summer@gapdays.de) with the
 following contents.
 
-The registration will close on July 31, 2022.
+If your require reimbursements please register until July 31, 2022.
+
+The registration will close on September 25, 2022.
 
 ```
 Registration for {{site.title}}
