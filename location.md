@@ -46,7 +46,7 @@ Aachen's Pontviertel offers various places to have lunch and dinner. Here are a 
     - Distance from location: 5 min walking distance
     - Offers a wide range of different meals, usually also vegetarian and vegan options
     - The daily changing menu can be seen [here](https://www.studierendenwerk-aachen.de/en/eating-drinking/mensa-academica-wochenplan-en-kopie.html).
-    - Price: 3,50 € - 7,00 €
+    - Price: 6,00 € - 8,00 €
     - If you wish to have lunch at the university canteen you will need a card to pay with that can be charged at the entrance. Please indicate in the registration form if you would like to have such a card, we will provide you with one.
 - [AKL](https://www.openstreetmap.org/search?whereami=1&query=50.77687%2C6.08320#map=19/50.77687/6.08320)
     - Distance from location: 5 min walking distance
