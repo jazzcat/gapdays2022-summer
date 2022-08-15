@@ -21,7 +21,8 @@ To register please send an email to
 [gapdays2022-summer@gapdays.de](mailto:gapdays2022-summer@gapdays.de) with the
 following contents.
 
-If your require reimbursements please register until July 31, 2022.
+The registration period for applying for reimbursements ended on July 31, 2022.
+We cannot provide reimbursements for new registrations.
 
 The registration will close on September 25, 2022.
 
@@ -40,10 +41,6 @@ Monday, October 17, 10 am.)
 
 Departure date: ... (Please enter the day of departure. We will 
 finish Friday, October 21, afternoon.)
-
-Reimbursements: ... (Expenses for travel and accommodations might 
-be partly covered. Please give us an estimation how much support 
-you will need.)
 
 Mensa Card: Yes/No (Please indicate if you wish to have lunch at 
 the university canteen. See Location for more information.)
