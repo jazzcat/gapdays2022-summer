@@ -7,6 +7,11 @@ participants:
     links:
       "GitHub: ReymondAkpanya": https://github.com/ReymondAkpanya
 
+  - name: Frank Lübeck
+    affiliation: RWTH Aachen
+    links:
+      "GitHub: frankluebeck": https://github.com/frankluebeck
+
   - name: Jens Brandt
     affiliation: RWTH Aachen
     links:
