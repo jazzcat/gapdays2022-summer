@@ -21,7 +21,7 @@ Pontdriesch 14/16<br/>
 
 This is within 20-25 minutes walking distance from the main train station. Alternatively, you can take one of the buses from the lines 13B, 44, 74 (exit at “Driescher Gässchen”) or the lines 3A, 13A (exit at “Ponttor” ).
 
-You can find the organizers in room 252 on floor E2.
+You can find the organizers in room 318 on floor 3.
 
 <h2>Rooms</h2>
 
