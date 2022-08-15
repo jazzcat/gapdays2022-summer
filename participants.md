@@ -91,6 +91,12 @@ participants:
   - name: Vinay Vilas Wagh
     affiliation: Indian Institute of Technology Guwahati
 
+  - name: Bardia Jahangiri
+    affiliation: University of Kashan
+
+  - name: Mohammad Moein Yousefian Arani
+    affiliation: University of Kashan
+
   - name: Meike Weiß
     affiliation: RWTH Aachen
     links:
@@ -100,6 +106,10 @@ participants:
     affiliation: RWTH Aachen
     links:
       "GitHub: wucas": https://github.com/wucas
+
+  - name: Wilf Wilson
+    links:
+      "GitHub: wilfwilson": https://github.com/wilfwilson
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
